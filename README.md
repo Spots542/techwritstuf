@@ -62,3 +62,5 @@ alt="this won't work for me. oh well." width="240" height="180" border="10" /></
 var s = "javascript syntax highlighting";
 alert(s)
 ```
+
+the *ease* with which this comes makes me feel **so** much better about failing that *java* course last semester.
