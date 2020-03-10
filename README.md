@@ -52,3 +52,9 @@ test
 alt="this won't work for me. oh well." width="240" height="180" border="10" /></a>
 
 [![this won't work for me. oh well](http://img.youtube.com/vi/V5msaglDU4Q&ab/0.jpg)](https://www.youtube.com/watch?v=V5msaglDU4Q&ab_channel=EqualVisionRecords)
+
+
+```javascript
+var s = "javascript syntax highlighting";
+alert(s)
+```
