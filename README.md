@@ -39,7 +39,7 @@ just|for|funzies
 
 > blockquote for example.
 
-> boy will i *impress* the **discord** ***server***
+> boy, will i *impress* the **discord** ***server***
 
 here's a line
 ---
