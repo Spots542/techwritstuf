@@ -29,6 +29,9 @@ here's some `code`
  --- | --- | --- |
 at | a | table |
 not|too|bad
+for|a|table
+I'm|just|wasting
+time|now|oops
 
 > blockquote for example.
 
