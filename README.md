@@ -32,6 +32,8 @@ not|too|bad
 for|a|table
 I'm|just|wasting
 time|now|oops
+extending| the| table|
+just|for|funzies
 
 > blockquote for example.
 
