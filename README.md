@@ -30,7 +30,8 @@ here's some `code`
 at | a | table |
 not|too|bad
 
-> blockquote for example
+> blockquote for example.
+
 > boy will i *impress* the **discord** ***server***
 
 here's a line
