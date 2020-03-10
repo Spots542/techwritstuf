@@ -68,3 +68,5 @@ alert(s)
 ```
 
 the *ease* with which this comes makes me feel **so** much better about failing that *java* course last semester.
+
+how much time can I ***waste???*** I'm at ~15ish~ minutes now.
